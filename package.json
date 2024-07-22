@@ -21,7 +21,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yogzsp/whatsapp-wazuh-bot.git"
+    "url": "git+https://github.com/yogzsp/whatsapp-bot-wazuh.git"
   },
   "keywords": [
     "wazuh",
@@ -30,7 +30,7 @@
   "author": "yogzsp",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yogzsp/whatsapp-wazuh-bot/issues"
+    "url": "https://github.com/yogzsp/whatsapp-bot-wazuh.git"
   },
-  "homepage": "https://github.com/yogzsp/whatsapp-wazuh-bot#readme"
+  "homepage": "https://github.com/yogzsp/whatsapp-bot-wazuh#readme"
 }
