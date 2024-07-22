@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "wazuh-bot",
-    "password": "wazuhBot",
-    "database": "wazuhbot",
+    "username": "yourusername",
+    "password": "yourpassword",
+    "database": "yourdatabase",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },

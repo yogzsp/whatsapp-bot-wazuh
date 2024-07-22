@@ -11,7 +11,8 @@
     "venom-bot": "^5.1.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "start:db":"cd ./app && npx sequelize-cli db:create && npx sequelize-cli db:migrate"
   },
   "name": "wazuh-wa-bot",
   "version": "1.0.0",
