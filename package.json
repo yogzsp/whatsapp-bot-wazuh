@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7",
+    "qrcode": "^1.5.3",
+    "sequelize": "^6.37.3",
+    "venom-bot": "^5.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "wazuh-wa-bot",
+  "version": "1.0.0",
+  "description": "this is wazuh integration with whatsapp api",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogzsp/whatsapp-wazuh-bot.git"
+  },
+  "keywords": [
+    "wazuh",
+    "bot"
+  ],
+  "author": "yogzsp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogzsp/whatsapp-wazuh-bot/issues"
+  },
+  "homepage": "https://github.com/yogzsp/whatsapp-wazuh-bot#readme"
+}
